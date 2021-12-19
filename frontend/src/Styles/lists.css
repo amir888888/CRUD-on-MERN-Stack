@@ -1,0 +1,19 @@
+.list-group-item{
+    display: flex !important;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+    justify-items: center;
+    gap: 90px;
+    padding: 10px 15px !important;
+    box-shadow: 9px 8px 10px -3px rgba(5,1,1,0.87);
+-webkit-box-shadow: 9px 8px 10px -3px rgba(5,1,1,0.87);
+-moz-box-shadow: 9px 8px 10px -3px rgba(5,1,1,0.87);
+}
+.btns{
+    display: flex;
+    gap: 10px;
+}
+ul{
+    padding-bottom: 10px;
+}

@@ -1,0 +1,16 @@
+.app{
+    width: 20rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding-top:5rem;
+}  
+.lists{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+}
